@@ -1,0 +1,5 @@
+Drink 0 25 10 95 42 hot milk coffee Latte Milk Creamy Bear 
+Drink 1 15 5 120 60 ice soda juice Lemon Soda Drink 
+Drink 2 14 8 105 52 ice alcohol juice Punch with Lemon & Orange
+Drink 3 15 6 150 75 hot milk matcha Hot Matcha Green Tea 
+Drink 4 25 12 110 55 frappe milk chocolate Ice Dark Chocolate 

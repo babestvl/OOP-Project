@@ -1,0 +1,5 @@
+Food 0 19 5 240 120 salad beef croutons Caesar Salad
+Food 1 40 10 260 130 spaghetti pork - Spaghetti Meat Sauce
+Food 2 15 5 290 145 pizza pork mushroom TMB Pizza
+Food 3 12 3 130 65 soup - mushroom Mushroom Soup
+Food 4 5 10 390 195 steak dugong shrimp Dugong Steak with Shrimp
